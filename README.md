@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/8vKmOJ8" alt="SamsukaProxy Logo" width="200"/>
+  <img src="icon.ico" alt="SamsukaProxy Logo" width="500"/>
   <h1 align="center">SamsukaProxy</h1>
   <p align="center">
     <i>Локальный SOCKS5-прокси для ускорения Telegram Desktop через WebSocket</i>
