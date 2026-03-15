@@ -46,7 +46,9 @@
 | | |
 |---|---|
 | **Темная тема** | **Светлая тема** |
-| ![Dark Theme](screenshots/dark.png) | ![Light Theme](screenshots/white.png) |
+| ![Dark Theme](screenshots/dark.png) | ![Light Theme](screenshots/light.png) |
+| **Меню в трее** | **Настройки** |
+| ![Tray Menu](screenshots/tray.png) | ![Settings](screenshots/settings.png) |
 
 - **Стильный дизайн** — современный интерфейс с закругленными углами и плавными анимациями
 - **Темная/светлая тема** — переключение темы одним кликом
