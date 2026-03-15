@@ -72,7 +72,7 @@
 ## 🚀 Старт из коробки 
 
 ### Вариант 1: Скачать готовый бинарник
-1. Перейдите в [раздел Releases](https://github.com/ваш-username/SamsukaProxy/releases)
+1. Перейдите в [раздел Releases](https://github.com/vizi1337/SamsukaProxy/releases)
 2. Скачайте SamsukaProxy.exe
 3. Запустите файл
 
