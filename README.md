@@ -5,13 +5,11 @@
     <i>Локальный SOCKS5-прокси для ускорения Telegram Desktop через WebSocket</i>
   </p>
   <p align="center">
-    <a href="https://github.com/Flowseal/tg-ws-proxy/"><img src="https://img.shields.io/badge/Original-tg--ws--proxy-blue?style=for-the-badge&logo=github"></a>
-    <a href="https://github.com/ваш-username/SamsukaProxy/releases"><img src="https://img.shields.io/github/v/release/ваш-username/SamsukaProxy?style=for-the-badge&logo=telegram&color=green"></a>
-    <a href="https://github.com/ваш-username/SamsukaProxy/stargazers"><img src="https://img.shields.io/github/stars/ваш-username/SamsukaProxy?style=for-the-badge&logo=github"></a>
+    <a href="https://github.com/Flowseal/tg-ws-proxy/"><img src="https://img.shields.io/badge/Based%20on-tg--ws--proxy-blue?style=for-the-badge&logo=github"></a>
+    <a href="https://vizi1337.github.io/samsukaproxy-site/"><img src="https://img.shields.io/badge/Site-SamsukaProxy-0066ff?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+    <a href="https://github.com/vizi1337"><img src="https://img.shields.io/badge/GitHub-vizi1337-181717?style=for-the-badge&logo=github"></a>
   </p>
 </p>
-
-
 ## 📋 Описание
 
 **SamsukaProxy** — это модифицированная версия [tg-ws-proxy](https://github.com/Flowseal/tg-ws-proxy/) от **Flowseal**, которая создаёт локальный SOCKS5-прокси для перенаправления трафика Telegram Desktop через WebSocket-соединения. Это помогает частично ускорить загрузку файлов, сообщений и медиа, аналогично эффекту от прокидывания hosts для Web Telegram.
