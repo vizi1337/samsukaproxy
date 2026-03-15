@@ -46,7 +46,7 @@
 | | |
 |---|---|
 | **Темная тема** | **Светлая тема** |
-| ![Dark Theme](screenshots/dark.png) | ![Light Theme](screenshots/light.png) |
+| ![Dark Theme](screenshots/dark.png) | ![Light Theme](screenshots/white.png) |
 | **Меню в трее** | **Настройки** |
 | ![Tray Menu](screenshots/tray.png) | ![Settings](screenshots/settings.png) |
 
